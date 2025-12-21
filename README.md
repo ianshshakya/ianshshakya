@@ -41,9 +41,9 @@ Founder of **Pluronce** | Building ideas into reality
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshShakya&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianshshakya&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshShakya&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianshshakya&layout=compact&theme=tokyonight)
 
 ---
 

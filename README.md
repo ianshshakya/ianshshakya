@@ -1,11 +1,11 @@
-# Hi 👋, I'm Ansh Shakya  
+# Hi , I'm Ansh Shakya  
 
-🚀 Full Stack Developer | 🧠 AI & ML Enthusiast | 🔐 Cybersecurity Learner  
+ Full Stack Developer |  AI & ML Enthusiast |  Cybersecurity Learner  
 Founder of **Pluronce** | Building ideas into reality  
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 - 🎓 Computer Science student  
 - 💡 Interested in AI, Machine Learning, Cybersecurity, AR/VR & Metaverse  
 - 🛠 Skilled in building full-stack web apps and AI-powered projects  
@@ -14,7 +14,7 @@ Founder of **Pluronce** | Building ideas into reality
 
 ---
 
-## 🧰 Tech Stack  
+##  Tech Stack  
 **Languages:**  
 - Java, Python, JavaScript, PHP  
 
@@ -31,13 +31,12 @@ Founder of **Pluronce** | Building ideas into reality
 
 ---
 
-## 🚀 Projects  
-- ♟ **AI Chess Bot with Trash Talk** – Chess game vs AI with human-like chat  
-- 🤖 **AI Chatbot** – Built using DeepSeek AI model  
-- 🛍 **BunknBuy** – E-commerce web application  
-- 🧪 **Pluronce** – Research-focused organization for futuristic tech  
-- 🌐 **StickJunkey** – Custom sticker startup & web platform  
-
+##  Projects  
+- ♟ **<a href="https://stupidchess-one.vercel.app">AI Chess Bot with Trash Talk</a>** – Chess game vs AI with human-like chat  
+- 🤖 **<a href="https://vien.onrender.com">AI Chatbot</a>** – Built using DeepSeek AI model  
+- 🛍 **<a href="https://bunknbuy.store">BunknBuy</a>** – E-commerce web application  
+- 🧪 **<a href="https://pluronce.space">Pluronce</a>** – Research-focused organization for futuristic tech
+  
 ---
 
 ## 📈 GitHub Stats  
@@ -48,9 +47,9 @@ Founder of **Pluronce** | Building ideas into reality
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn:  *(https://www.linkedin.com/in/anshshakya/)*  
-- 🌐 Portfolio: *(add link)* 
+
+ <a href="https://www.linkedin.com/in/anshshakya/"> LinkedIn</a> | 
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+ *If you like my work, consider starring my repositories!*  
